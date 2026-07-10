@@ -27,7 +27,6 @@ version: 1.2.0 (Auditoría e Integración de Protocolos)
 - **Criticidad:** **Tier 1 (Core Business)**. Una caída de este componente inhabilita por completo la gestión operativa de créditos, la autorización de transacciones en los puntos de venta (POS) de las tiendas físicas, las consultas de canales automáticos y los procesos de prevención de fraudes en tiempo real.
 - **Contactos Clave:**
   - *Líder Técnico:* Jose Salame Atiencia
-  - *Arquitecto de Aplicaciones TI:* Kevin Garavi
 
 ---
 
